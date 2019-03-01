@@ -1,9 +1,3 @@
-/*
-ASSIGNMENT: GeometricObjects
-CLASS: ICS 111, M&W
-WRITTEN BY: Jake Pasternak
- */
-
 class Point
 {
 	// ======>> instance data
